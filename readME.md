@@ -11,6 +11,7 @@ Welcome to my collection of Computer Vision mini projects! These projects showca
 
 Each project is a testament to the versatility and impact of computer vision technologies. From facial recognition systems and object detection modules to real-time video analysis and augmented reality applications, these mini projects demonstrate practical, real-world implementations of cutting-edge computer vision techniques.
 
+## once you've completed it , make sure to upload a demo on instagram and tag me @_ayaaanadil
 
 ## 🔗 Links
 
